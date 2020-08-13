@@ -7,4 +7,4 @@ This GitHub repository contains one single Jenkinsfile that is used to demonstra
 The repository was created to support the article written for [Opensource.com](https://opensource.com)
 
 
-testing ci
+testing ci cd
